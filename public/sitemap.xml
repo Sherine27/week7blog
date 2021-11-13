@@ -3,14 +3,47 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
     <loc>https://example.com/</loc>
+    <lastmod>2021-11-11T21:13:14-05:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url><url>
     <loc>https://example.com/post/</loc>
+    <lastmod>2021-11-11T21:13:14-05:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url><url>
     <loc>https://example.com/categories/</loc>
+    <lastmod>2021-11-11T21:13:14-05:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url><url>
+    <loc>https://example.com/tags/plot/</loc>
+    <lastmod>2021-11-11T21:13:14-05:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url><url>
+    <loc>https://example.com/post/01_prices-and-size/</loc>
+    <lastmod>2021-11-11T21:13:14-05:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url><url>
+    <loc>https://example.com/categories/r/</loc>
+    <lastmod>2021-11-11T21:13:14-05:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url><url>
+    <loc>https://example.com/tags/r-markdown/</loc>
+    <lastmod>2021-11-11T21:13:14-05:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url><url>
+    <loc>https://example.com/tags/regression/</loc>
+    <lastmod>2021-11-11T21:13:14-05:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url><url>
+    <loc>https://example.com/tags/</loc>
+    <lastmod>2021-11-11T21:13:14-05:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url><url>
@@ -19,10 +52,6 @@
     <priority>0.5</priority>
   </url><url>
     <loc>https://example.com/sources/</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-  </url><url>
-    <loc>https://example.com/tags/</loc>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>

@@ -1,0 +1,36 @@
+---
+title: "Prices and Size"
+author: "xxx"
+date: 2021-11-11T21:13:14-05:00
+categories: ["R"]
+tags: ["R Markdown", "plot", "regression"]
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(collapse = TRUE)
+```
+
+
+
+Add data
+xxxx
+
+```{r Size vs Price, echo=FALSE, message=FALSE, warning=FALSE}
+library(tidyverse)
+library(dplyr)
+library(maps)
+library(raster)
+library(rgeos)
+library("leaflet")
+library(plotly)
+re_india=read.csv('./../../../../re_india.csv')
+ggplotly(ggplot(data=re_india)+
+           geom_point(mapping=aes(y=Price,x=Size))+
+           scale_x_continuous(breaks = seq(from = 0, to = 22000, by = 2000), limits = c(0, 22050))+
+           ggtitle("Size vs Price of properties, India, 2020")+
+           theme(plot.title = element_text(hjust = 0.5,face="bold"))+
+           labs(x="Size (in sq ft)",y="Price (in thousands INR)"))
+```
+
+
+Add visuals
