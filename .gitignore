@@ -2,6 +2,7 @@
 .Rhistory
 .Rapp.history
 .Ruserdata
+.DS_Store
 *-Ex.R
 /*.tar.gz
 /*.Rcheck/
