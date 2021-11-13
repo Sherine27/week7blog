@@ -2,35 +2,35 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Tags on India House Price Analysis</title>
-    <link>https://example.com/tags/</link>
+    <link>https://friendly-spence-c974ff.netlify.app/tags/</link>
     <description>Recent content in Tags on India House Price Analysis</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Thu, 11 Nov 2021 21:13:14 -0500</lastBuildDate><atom:link href="https://example.com/tags/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Thu, 11 Nov 2021 21:13:14 -0500</lastBuildDate><atom:link href="https://friendly-spence-c974ff.netlify.app/tags/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>plot</title>
-      <link>https://example.com/tags/plot/</link>
+      <link>https://friendly-spence-c974ff.netlify.app/tags/plot/</link>
       <pubDate>Thu, 11 Nov 2021 21:13:14 -0500</pubDate>
       
-      <guid>https://example.com/tags/plot/</guid>
+      <guid>https://friendly-spence-c974ff.netlify.app/tags/plot/</guid>
       <description></description>
     </item>
     
     <item>
       <title>R Markdown</title>
-      <link>https://example.com/tags/r-markdown/</link>
+      <link>https://friendly-spence-c974ff.netlify.app/tags/r-markdown/</link>
       <pubDate>Thu, 11 Nov 2021 21:13:14 -0500</pubDate>
       
-      <guid>https://example.com/tags/r-markdown/</guid>
+      <guid>https://friendly-spence-c974ff.netlify.app/tags/r-markdown/</guid>
       <description></description>
     </item>
     
     <item>
       <title>regression</title>
-      <link>https://example.com/tags/regression/</link>
+      <link>https://friendly-spence-c974ff.netlify.app/tags/regression/</link>
       <pubDate>Thu, 11 Nov 2021 21:13:14 -0500</pubDate>
       
-      <guid>https://example.com/tags/regression/</guid>
+      <guid>https://friendly-spence-c974ff.netlify.app/tags/regression/</guid>
       <description></description>
     </item>
     

@@ -1,5 +1,5 @@
 title: India House Price Analysis
-baseURL: https://example.com
+baseURL: https://friendly-spence-c974ff.netlify.app
 languageCode: en-us
 theme: gohugo-theme-ananke
 resourceDir: ../resources
