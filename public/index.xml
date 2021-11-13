@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Ananke: a Hugo Theme on India House Price Analysis</title>
+    <link>https://example.com/</link>
+    <description>Recent content in Ananke: a Hugo Theme on India House Price Analysis</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language><atom:link href="https://example.com/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Data</title>
+      <link>https://example.com/data/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://example.com/data/</guid>
+      <description>The data we are using from India house market. Some of teh fields in the data are • Price - Price in thousand Indian rupee (INR1000). • PostedBy - Category marking who has listed the property. • UnCon - Under Construction (1) or Not (0). • RERA - Real Estate Regulatory Authority (RERA) approved (1) or Not (0). Real estate developers should register with the RERA for launching a project, in order to provide greater transparency in project-marketing and execution.</description>
+    </item>
+    
+    <item>
+      <title>Sources</title>
+      <link>https://example.com/sources/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://example.com/sources/</guid>
+      <description>Describe data sources</description>
+    </item>
+    
+  </channel>
+</rss>
